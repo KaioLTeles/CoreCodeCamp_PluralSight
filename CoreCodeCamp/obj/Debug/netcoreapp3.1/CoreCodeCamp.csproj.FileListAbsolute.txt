@@ -53,3 +53,4 @@ C:\Users\kaio.teles\Documents\git\CoreCodeCamp\CoreCodeCamp\obj\Debug\netcoreapp
 C:\Users\kaio.teles\Documents\git\CoreCodeCamp\CoreCodeCamp\obj\Debug\netcoreapp3.1\CoreCodeCamp.dll
 C:\Users\kaio.teles\Documents\git\CoreCodeCamp\CoreCodeCamp\obj\Debug\netcoreapp3.1\CoreCodeCamp.pdb
 C:\Users\kaio.teles\Documents\git\CoreCodeCamp\CoreCodeCamp\obj\Debug\netcoreapp3.1\CoreCodeCamp.genruntimeconfig.cache
+C:\Users\kaio.teles\Documents\git\CoreCodeCamp\CoreCodeCamp\obj\Debug\netcoreapp3.1\CoreCodeCamp.csprojAssemblyReference.cache
